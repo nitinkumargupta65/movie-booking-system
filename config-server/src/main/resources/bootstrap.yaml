@@ -6,8 +6,8 @@ spring:
       server:
         git:
           uri: https://github.com/nitinkumargupta65/spring-cloud-config-server-repository
-          username: nitinkumargupta65
-          password: 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
+         ## username: nitinkumargupta65
+          ## password: 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
           default-label: main
         native:
           searchLocations: file://Users/nitingupta2/workspaceSapient/movie-booking-system/config-server-repository
